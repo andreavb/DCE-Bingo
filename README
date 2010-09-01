@@ -1,0 +1,14 @@
+LEIA-ME
+
+Bingo DCE
+by Vivaldi, Loko e VB
+
+* Descrição:
+	* Gerador de cartelas de Bingo para o DCE
+	* Customização: para customizar seu bingo, basta alterar o arquivo "palavras.txt"
+
+* Como utilizar o programa:
+
+	* salve os arquivos no mesmo diretório;
+	* estando no diretório escolhido, digite na linha de comando: "python bingo.py"
+	* abra o arquivo "bingo.html", ele é a sua cartela
